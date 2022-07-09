@@ -1,0 +1,9 @@
+baseURL = 'https:/dzygann.github.io/'
+languageCode = 'en-us'
+title = 'Denis Zygann'
+
+[module]
+  [[module.imports]]
+    path = "github.com/lxndrblz/anatole"
+    disable = false
+

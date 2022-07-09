@@ -1,0 +1,18 @@
+title = "Denis Zygann"
+author = "Denis Zygann"
+description = "I'm a passionate software engineer"
+profilePicture = "images/profile.jpg"
+
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/denis-zygann/"
+
+[[socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/dzygann"
+

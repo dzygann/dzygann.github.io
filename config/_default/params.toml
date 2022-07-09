@@ -6,13 +6,24 @@ profilePicture = "images/profile.jpg"
 
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
+
+[[socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/dzygann"
+
+[[socialIcons]]
+icon = "fab fa-medium"
+title = "Medium"
+url = "https://zygann.medium.com/"
+
 [[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/denis-zygann/"
 
 [[socialIcons]]
-icon = "fab fa-github"
-title = "GitHub"
-url = "https://github.com/dzygann"
+icon = "fab fa-xing"
+title = "xing"
+url = "https://www.xing.com/profile/Denis_Zygann/"
 
